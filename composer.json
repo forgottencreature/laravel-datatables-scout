@@ -17,7 +17,7 @@
   "require": {
     "php": ">=7.0",
     "yajra/laravel-datatables-oracle": "8.*",
-    "laravel/scout": "^3.0"
+    "laravel/scout": "^4.0"
   },
   "require-dev": {
     "orchestra/testbench": "~3.5"
